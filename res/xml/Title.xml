@@ -1,0 +1,146 @@
+<root>
+  <data>
+    <level type="int" multiLanguage="0">1</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_1_1</titleName>
+    <integral type="int" multiLanguage="0">0</integral>
+    <titleReward type="String" multiLanguage="0">0</titleReward>
+    <evenStrokes type="int" multiLanguage="0">1</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">2</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_2_1</titleName>
+    <integral type="int" multiLanguage="0">200</integral>
+    <titleReward type="String" multiLanguage="0">1_50</titleReward>
+    <evenStrokes type="int" multiLanguage="0">2</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">3</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_3_1</titleName>
+    <integral type="int" multiLanguage="0">500</integral>
+    <titleReward type="String" multiLanguage="0">1_80</titleReward>
+    <evenStrokes type="int" multiLanguage="0">2</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">4</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_4_1</titleName>
+    <integral type="int" multiLanguage="0">1000</integral>
+    <titleReward type="String" multiLanguage="0">1_100</titleReward>
+    <evenStrokes type="int" multiLanguage="0">3</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">5</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_5_1</titleName>
+    <integral type="int" multiLanguage="0">2000</integral>
+    <titleReward type="String" multiLanguage="0">1_120</titleReward>
+    <evenStrokes type="int" multiLanguage="0">4</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">6</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_6_1</titleName>
+    <integral type="int" multiLanguage="0">4000</integral>
+    <titleReward type="String" multiLanguage="0">1_150</titleReward>
+    <evenStrokes type="int" multiLanguage="0">4</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">7</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_7_1</titleName>
+    <integral type="int" multiLanguage="0">8000</integral>
+    <titleReward type="String" multiLanguage="0">1_200</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">8</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_8_1</titleName>
+    <integral type="int" multiLanguage="0">12000</integral>
+    <titleReward type="String" multiLanguage="0">1_250</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">9</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_9_1</titleName>
+    <integral type="int" multiLanguage="0">16000</integral>
+    <titleReward type="String" multiLanguage="0">1_300</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.0</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.0</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">10</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_10_1</titleName>
+    <integral type="int" multiLanguage="0">32000</integral>
+    <titleReward type="String" multiLanguage="0">1_350</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">11</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_11_1</titleName>
+    <integral type="int" multiLanguage="0">64000</integral>
+    <titleReward type="String" multiLanguage="0">1_400</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">12</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_12_1</titleName>
+    <integral type="int" multiLanguage="0">74000</integral>
+    <titleReward type="String" multiLanguage="0">1_450</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">13</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_13_1</titleName>
+    <integral type="int" multiLanguage="0">91200</integral>
+    <titleReward type="String" multiLanguage="0">1_500</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">14</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_14_1</titleName>
+    <integral type="int" multiLanguage="0">108400</integral>
+    <titleReward type="String" multiLanguage="0">1_550</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">15</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_15_1</titleName>
+    <integral type="int" multiLanguage="0">125600</integral>
+    <titleReward type="String" multiLanguage="0">1_600</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+  <data>
+    <level type="int" multiLanguage="0">16</level>
+    <titleName type="String" multiLanguage="1">config.xls_2_16_1</titleName>
+    <integral type="int" multiLanguage="0">142800</integral>
+    <titleReward type="String" multiLanguage="0">1_650</titleReward>
+    <evenStrokes type="int" multiLanguage="0">5</evenStrokes>
+    <addAttackSpeedPercentage type="double" multiLanguage="0">0.05</addAttackSpeedPercentage>
+    <addMoveSpeedPercentage type="double" multiLanguage="0">0.05</addMoveSpeedPercentage>
+  </data>
+</root>

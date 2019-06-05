@@ -1,0 +1,24 @@
+<root>
+  <data>
+    <configId type="int" multiLanguage="0">1</configId>
+    <initGold type="int" multiLanguage="0">200</initGold>
+    <attackGoldCost type="int" multiLanguage="0">1</attackGoldCost>
+    <maxMagnification type="int" multiLanguage="0">5</maxMagnification>
+    <defaultEase type="double" multiLanguage="0">0.7</defaultEase>
+    <dispatchTroopsInterval type="double" multiLanguage="0">5.0</dispatchTroopsInterval>
+    <loseScoreConversionCycleMinTime type="int" multiLanguage="0">180</loseScoreConversionCycleMinTime>
+    <loseScoreConversionCycleMaxTime type="int" multiLanguage="0">300</loseScoreConversionCycleMaxTime>
+    <scoreConversionCycleMinTime type="int" multiLanguage="0">300</scoreConversionCycleMinTime>
+    <scoreConversionCycleMaxTime type="int" multiLanguage="0">600</scoreConversionCycleMaxTime>
+    <sendTroopsMinTime type="int" multiLanguage="0">5</sendTroopsMinTime>
+    <sendTroopsMaxTime type="int" multiLanguage="0">10</sendTroopsMaxTime>
+    <sentTroopsMinNumber type="int" multiLanguage="0">3</sentTroopsMinNumber>
+    <sentTroopsManNumber type="int" multiLanguage="0">5</sentTroopsManNumber>
+    <wheelOfFortuneGoldCost type="int" multiLanguage="0">20</wheelOfFortuneGoldCost>
+    <dailyOnlineReward type="String" multiLanguage="0">1_100</dailyOnlineReward>
+    <dailyOnlineRewardTime type="int" multiLanguage="0">7200</dailyOnlineRewardTime>
+    <dailyOnlineRewardCount type="int" multiLanguage="0">5</dailyOnlineRewardCount>
+    <dailyTaskCount type="int" multiLanguage="0">5</dailyTaskCount>
+    <dailyTaskTimeInterval type="String" multiLanguage="0">60_600</dailyTaskTimeInterval>
+  </data>
+</root>

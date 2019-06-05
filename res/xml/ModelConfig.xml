@@ -1,0 +1,1260 @@
+<root>
+  <data>
+    <imageId type="int" multiLanguage="0">10001</imageId>
+    <pointX type="double" multiLanguage="0">0.49</pointX>
+    <pointY type="double" multiLanguage="0">0.4</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">34_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10002</imageId>
+    <pointX type="double" multiLanguage="0">0.49</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">57_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10003</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.31</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">43_50</size>
+    <AttackSize type="string" multiLanguage="0">90_40</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10004</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.34</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">34_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10005</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">64_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10006</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.34</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">61_50</size>
+    <AttackSize type="string" multiLanguage="0">150_40</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10007</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.3</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">57_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10008</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.43</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">57_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10009</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">36_50</size>
+    <AttackSize type="string" multiLanguage="0">150_40</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10010</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.4</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">48_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10011</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">68_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10012</imageId>
+    <pointX type="double" multiLanguage="0">0.47</pointX>
+    <pointY type="double" multiLanguage="0">0.23</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">145_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">1</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10013</imageId>
+    <pointX type="double" multiLanguage="0">0.53</pointX>
+    <pointY type="double" multiLanguage="0">0.3</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">125_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10014</imageId>
+    <pointX type="double" multiLanguage="0">0.49</pointX>
+    <pointY type="double" multiLanguage="0">0.29</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">45_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10015</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.17</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">69_50</size>
+    <AttackSize type="string" multiLanguage="0">300_40</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">8</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10016</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.4</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">39_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10017</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.4</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">37_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10019</imageId>
+    <pointX type="double" multiLanguage="0">0.47</pointX>
+    <pointY type="double" multiLanguage="0">0.24</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">145_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">1</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10021</imageId>
+    <pointX type="double" multiLanguage="0">0.52</pointX>
+    <pointY type="double" multiLanguage="0">0.31</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">69_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10023</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.34</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">32_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10024</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">45_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10025</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10026</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">37_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10027</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.16</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">77_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10028</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.35</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">50_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10029</imageId>
+    <pointX type="double" multiLanguage="0">0.52</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">51_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10030</imageId>
+    <pointX type="double" multiLanguage="0">0.49</pointX>
+    <pointY type="double" multiLanguage="0">0.34</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">44_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10031</imageId>
+    <pointX type="double" multiLanguage="0">0.48</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">169_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10032</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">149_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10033</imageId>
+    <pointX type="double" multiLanguage="0">0.48</pointX>
+    <pointY type="double" multiLanguage="0">0.4</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">169_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10034</imageId>
+    <pointX type="double" multiLanguage="0">0.56</pointX>
+    <pointY type="double" multiLanguage="0">0.36</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">197_50</size>
+    <AttackSize type="string" multiLanguage="0">120_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">17</attackStartFrames>
+    <attackType type="int" multiLanguage="0">2</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10035</imageId>
+    <pointX type="double" multiLanguage="0">0.55</pointX>
+    <pointY type="double" multiLanguage="0">0.42</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">170_50</size>
+    <AttackSize type="string" multiLanguage="0">200_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">6</attackStartFrames>
+    <attackType type="int" multiLanguage="0">2</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10036</imageId>
+    <pointX type="double" multiLanguage="0">0.54</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">163_50</size>
+    <AttackSize type="string" multiLanguage="0">200_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">6</attackStartFrames>
+    <attackType type="int" multiLanguage="0">2</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10037</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.42</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">193_50</size>
+    <AttackSize type="string" multiLanguage="0">180_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">8</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10038</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10039</imageId>
+    <pointX type="double" multiLanguage="0">0.52</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">44_50</size>
+    <AttackSize type="string" multiLanguage="0">290_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">6</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10040</imageId>
+    <pointX type="double" multiLanguage="0">0.49</pointX>
+    <pointY type="double" multiLanguage="0">0.3</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">32_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10041</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">28_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10042</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">44_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10043</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.32</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">37_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10044</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">31_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10045</imageId>
+    <pointX type="double" multiLanguage="0">0.48</pointX>
+    <pointY type="double" multiLanguage="0">0.35</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">38_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10046</imageId>
+    <pointX type="double" multiLanguage="0">0.52</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">58_50</size>
+    <AttackSize type="string" multiLanguage="0">100_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4_8</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10047</imageId>
+    <pointX type="double" multiLanguage="0">0.49</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">29_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10048</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10049</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.35</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">40_50</size>
+    <AttackSize type="string" multiLanguage="0">310_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">8</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10050</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">63_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10051</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.34</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">62_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10052</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.32</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">52_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10053</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.32</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">63_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10054</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">48_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10055</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.39</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">60_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10056</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">52_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10057</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">53_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10058</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.31</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">50_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10059</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.31</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">64_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10060</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">46_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10061</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.32</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">52_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10062</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.33</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">75_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10063</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">55_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10064</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.38</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">55_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10065</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.4</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">51_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10066</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">55_50</size>
+    <AttackSize type="string" multiLanguage="0">0</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">0</attackStartFrames>
+    <attackType type="int" multiLanguage="0">0</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10067</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">80_50</size>
+    <AttackSize type="string" multiLanguage="0">280_55</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">11</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10068</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">80_50</size>
+    <AttackSize type="string" multiLanguage="0">160_55</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10069</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">80_50</size>
+    <AttackSize type="string" multiLanguage="0">110_55</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">5_10_12</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10070</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">110_50</size>
+    <AttackSize type="string" multiLanguage="0">70_50</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">9</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10071</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">80_50</size>
+    <AttackSize type="string" multiLanguage="0">150_40</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">8</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">10072</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.37</pointY>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <starthitFps type="int" multiLanguage="0">0</starthitFps>
+    <size type="string" multiLanguage="0">90_50</size>
+    <AttackSize type="string" multiLanguage="0">200_55</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.0</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.0</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.0</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.0</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">20001</imageId>
+    <pointX type="double" multiLanguage="0">0.5</pointX>
+    <pointY type="double" multiLanguage="0">0.25</pointY>
+    <starthitFps type="int" multiLanguage="0">3</starthitFps>
+    <starthitFps type="int" multiLanguage="0">9</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">130_60</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.5</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.28</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.5</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.29</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">20002</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.41</pointY>
+    <starthitFps type="int" multiLanguage="0">4</starthitFps>
+    <starthitFps type="int" multiLanguage="0">9</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">280_35</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.51</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.39</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.51</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.25</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">4</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">20003</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.41</pointY>
+    <starthitFps type="int" multiLanguage="0">4</starthitFps>
+    <starthitFps type="int" multiLanguage="0">9</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">130_60</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.5</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.41</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.51</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.25</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">3</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">20004</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.41</pointY>
+    <starthitFps type="int" multiLanguage="0">4</starthitFps>
+    <starthitFps type="int" multiLanguage="0">9</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">300_35</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.51</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.39</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.51</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.25</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">3</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+  <data>
+    <imageId type="int" multiLanguage="0">20005</imageId>
+    <pointX type="double" multiLanguage="0">0.51</pointX>
+    <pointY type="double" multiLanguage="0">0.21</pointY>
+    <starthitFps type="int" multiLanguage="0">4</starthitFps>
+    <starthitFps type="int" multiLanguage="0">9</starthitFps>
+    <size type="string" multiLanguage="0">33_50</size>
+    <AttackSize type="string" multiLanguage="0">300_35</AttackSize>
+    <Attacksound type="int" multiLanguage="0">1</Attacksound>
+    <attackpointX type="double" multiLanguage="0">0.51</attackpointX>
+    <attackpointY type="double" multiLanguage="0">0.22</attackpointY>
+    <skillpointX type="double" multiLanguage="0">0.51</skillpointX>
+    <skillpointY type="double" multiLanguage="0">0.25</skillpointY>
+    <specialType type="int" multiLanguage="0">0</specialType>
+    <attackStartFrames type="String" multiLanguage="0">3</attackStartFrames>
+    <attackType type="int" multiLanguage="0">1</attackType>
+  </data>
+</root>

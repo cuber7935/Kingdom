@@ -1,0 +1,422 @@
+<root>
+  <data>
+    <formationId type="int" multiLanguage="0">50001</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50001_1</name>
+    <formation type="String" multiLanguage="0">0_10003_10009_10009_10003_0_10009_10009_10009_10009_0_10001_10001_10001_10001_0_10002_10002_10002_10002_0_10035_10009_10009_10035_0_10017_10017_10017_10017_0_10019_10019_10019_10019_0_10016_10016_10019_10019_0_10009_10016_10016_10016_0_10010_10010_10010_10010_0_10003_10009_10009_10003</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50002</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50002_1</name>
+    <formation type="String" multiLanguage="0">10003_10009_10009_10003_0_10009_10009_10009_10009_0_10001_10001_10001_10001_0_10002_10002_10002_10002_0_10009_10009_10009_10009_0_10017_10017_10017_10017_0_10019_10019_10019_10019_0_10010_10010_10010_10010_0_10016_10016_10016_10016_0_10035_10009_10009_10035</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50003</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50003_1</name>
+    <formation type="String" multiLanguage="0">0_10035_10035_10035_10035_0_10001_10001_10001_10001_0_10035_10035_10035_10035_0_10002_10002_10002_10002_0_10016_10009_10009_10016_0_10017_10017_10017_10017_0_10010_10010_10010_10010_0_10009_10009_10009_10009_0_10019_10019_10019_10019_0_10003_10003_10003_10003</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50004</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50004_1</name>
+    <formation type="String" multiLanguage="0">10003_10003_10003_10003_0_10001_10016_10016_10001_0_10009_10035_10009_10035_0_10016_10002_10016_10002_0_10009_10009_10009_10009_0_10017_10017_10017_10017_0_10017_10017_10017_10017_0_10009_10035_10009_10035_0_10019_10019_10019_10019_0_10010_10010_10010_10010_0_10003_10003_10003_10003</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50005</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50005_1</name>
+    <formation type="String" multiLanguage="0">10003_10003_0_10003_10003_10010_10001_0_10001_10010_10035_10009_0_10009_10035_10002_10016_0_10016_10002_10009_10009_0_10009_10009_10017_10017_0_10017_10017_10019_10019_0_10019_10019_10009_10009_0_10009_10009_10019_10016_0_10016_10019_10035_10003_0_10003_10035</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50006</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50006_1</name>
+    <formation type="String" multiLanguage="0">0_10001_10001_10001_10001_0_10010_10010_10010_10010_0_10016_10016_10016_10016_0_10002_10002_10002_10002_0_10001_10001_10001_10001_0_10017_10017_10017_10017_0_10001_10001_10001_10001_0_10019_10019_10019_10019_0_10001_10001_10001_10001_0_10019_10019_10019_10019</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50007</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50007_1</name>
+    <formation type="String" multiLanguage="0">10001_10001_10001_10001_0_10010_10010_10010_10010_0_10002_10002_10002_10002_0_10001_10001_10001_10001_0_10017_10017_10017_10017_0_10001_10001_10001_10001_0_10016_10016_10016_10016_0_10017_10017_10017_10017_0_10001_10001_10001_10001_0_10019_10019_10019_10019</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50008</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50008_1</name>
+    <formation type="String" multiLanguage="0">0_10016_10016_10016_10016_0_10002_10002_10002_10002_0_10017_10017_10017_10017_0_10017_10017_10017_10017_0_10019_10019_10019_10019_0_10017_10017_10017_10017_0_10010_10010_10010_10010_0_10002_10002_10002_10002</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50009</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50009_1</name>
+    <formation type="String" multiLanguage="0">10017_10017_10017_10017_0_10002_10002_10002_10002_0_10016_10016_10016_10016_0_10017_10017_10017_10017_0_10019_10019_10019_10019_0_10010_10010_10010_10010_0_10019_10019_10019_10019_0_10002_10002_10002_10002</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50010</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50010_1</name>
+    <formation type="String" multiLanguage="0">10017_10017_0_10017_10017_10002_10002_0_10002_10002_10010_10010_0_10010_10010_10019_10019_0_10019_10019_10019_10019_0_10019_10019_10016_10016_0_10016_10016_10019_10019_0_10019_10019_10002_10002_0_10002_10002</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50011</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50011_1</name>
+    <formation type="String" multiLanguage="0">0_10038_10035_10035_10038_0_10009_10009_10009_10009_0_10047_10017_10017_10047_0_10038_10010_10010_10038_0_10009_10009_10009_10009_0_10016_10011_10011_10016_0_10012_10012_10012_10012_0_10036_10030_10030_10036_0_10024_10024_10024_10024_0_10036_10035_10035_10036</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50012</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50012_1</name>
+    <formation type="String" multiLanguage="0">10036_10035_10035_10036_0_10009_10009_10009_10009_0_10016_10017_10017_10016_0_10030_10010_10010_10030_0_10009_10009_10009_10009_0_10011_10011_10011_10011_0_10012_10024_10024_10012_0_10030_10038_10038_10030_0_10047_10035_10035_10047_0_10036_10035_10035_10036</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50013</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50013_1</name>
+    <formation type="String" multiLanguage="0">0_10036_10035_10035_10036_0_10016_10017_10017_10016_0_10038_10035_10035_10038_0_10024_10012_10012_10024_0_10011_10011_10011_10011_0_10047_10035_10035_10047_0_10030_10030_10030_10030_0_10011_10035_10035_10011_0_10010_10010_10010_10010_0_10012_10035_10035_10012</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50014</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50014_1</name>
+    <formation type="String" multiLanguage="0">10036_10035_10035_10036_0_10024_10017_10017_10024_0_10047_10035_10035_10047_0_10012_10012_10012_10012_0_10011_10011_10011_10011_0_10036_10038_10038_10036_0_10030_10030_10030_10030_0_10047_10035_10035_10047_0_10010_10010_10010_10010_0_10024_10035_10035_10024</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50015</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50015_1</name>
+    <formation type="String" multiLanguage="0">10036_10009_0_10009_10036_10017_10017_0_10017_10017_10024_10035_0_10035_10024_10012_10012_0_10012_10012_10011_10011_0_10011_10011_10038_10035_0_10035_10038_10030_10030_0_10030_10030_10047_10035_0_10035_10047_10016_10010_0_10010_10016_10009_10009_0_10009_10009</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50016</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50016_1</name>
+    <formation type="String" multiLanguage="0">0_10012_10012_10012_10012_0_10024_10024_10024_10024_0_10038_10030_10030_10038_0_10017_10017_10017_10017_0_10010_10010_10010_10010_0_10011_10011_10011_10011_0_10030_10030_10030_10030_0_10047_10047_10047_10047_0_10016_10016_10016_10016</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50017</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50017_1</name>
+    <formation type="String" multiLanguage="0">10016_10016_10016_10016_0_10024_10024_10024_10024_0_10047_10047_10047_10047_0_10038_10017_10017_10038_0_10010_10010_10010_10010_0_10011_10011_10011_10011_0_10030_10030_10030_10030_0_10012_10012_10012_10012</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50018</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50018_1</name>
+    <formation type="String" multiLanguage="0">0_10024_10024_10024_10024_0_10038_10030_10030_10038_0_10011_10011_10011_10011_0_10017_10017_10017_10017_0_10047_10047_10047_10047_0_10010_10010_10010_10010_0_10012_10012_10012_10012_0_10016_10016_10016_10016</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50019</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50019_1</name>
+    <formation type="String" multiLanguage="0">10024_10024_10024_10024_0_10038_10030_10030_10038_0_10011_10011_10011_10011_0_10017_10017_10017_10017_0_10047_10047_10047_10047_0_10010_10010_10010_10010_0_10012_10012_10012_10012_0_10016_10016_10016_10016</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50020</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50020_1</name>
+    <formation type="String" multiLanguage="0">10017_10017_0_10017_10017_10024_10024_0_10024_10024_10038_10030_0_10030_10038_10047_10047_0_10047_10047_10016_10016_0_10016_10016_10010_10010_0_10010_10010_10038_10030_0_10030_10038_10011_10011_0_10011_10011_10012_10012_0_10012_10012</formation>
+    <speed type="int" multiLanguage="0">90</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50021</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50021_1</name>
+    <formation type="String" multiLanguage="0">0_0_10037_0_0_0_10037_10037_10037_0_10037_10037_10037_10037_10037_0_10024_10024_10024_0_0_10047_10047_10047_0_0_10016_10016_10016_0_0_10026_10026_10026_0_0_10010_10010_10010_0_0_10012_10012_10012_0_0_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50022</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50022_1</name>
+    <formation type="String" multiLanguage="0">10037_10037_10037_10037_10037_0_10024_10024_10024_0_0_10047_10047_10047_0_0_10016_10016_10016_0_0_10026_10026_10026_0_0_10010_10009_10010_0_0_10012_10009_10012_0_10037_10037_10037_10037_10037</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50023</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50023_1</name>
+    <formation type="String" multiLanguage="0">10011_10037_10037_10037_10011_10037_10024_10024_10024_10037_10037_10016_10038_10016_10037_10037_10010_10010_10010_10037_10037_10012_10038_10012_10037_10037_10046_10046_10046_10037_10037_10026_10009_10026_10037_10035_10035_10035_10035_10035</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50024</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50024_1</name>
+    <formation type="String" multiLanguage="0">0_10037_10037_10038_10037_10037_10024_10038_10024_0_0_10046_10016_10016_10037_10037_10010_10010_10011_0_0_10011_10012_10012_10037_10037_10047_10009_10047_0_0_10026_10026_10046_10035_10035_10009_10035_10035</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50025</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50025_1</name>
+    <formation type="String" multiLanguage="0">0_10035_10037_10035_0_0_10024_10026_10024_0_0_10037_10046_10037_0_0_10016_10026_10016_0_0_10037_10009_10037_0_0_10010_10011_10010_0_0_10037_10037_10037_0_0_10012_10011_10012_0_0_10037_10037_10037_0_0_10047_10009_10047_0_0_10037_10046_10037_0_0_10026_10026_10026_0_0_10037_10035_10037</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50026</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50026_1</name>
+    <formation type="String" multiLanguage="0">0_0_10012_0_0_0_10012_10012_10012_0_10011_10038_10038_10011_10011_0_10024_10024_10024_0_0_10047_10047_10047_0_0_10016_10016_10016_0_0_10026_10026_10026_0_0_10010_10010_10010_0_0_10012_10038_10012</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50027</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50027_1</name>
+    <formation type="String" multiLanguage="0">10012_10012_10038_10012_10012_0_10024_10024_10024_0_0_10047_10047_10047_0_0_10016_10016_10016_0_0_10026_10026_10026_0_0_10010_10010_10010_0_0_10012_10012_10012_0_10011_10011_10038_10011_10011</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50028</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50028_1</name>
+    <formation type="String" multiLanguage="0">10012_10012_10038_10012_10012_10012_10024_10024_10024_10012_10012_10016_10016_10016_10012_10012_10010_10010_10010_10012_10012_10012_10038_10012_10012_10012_10047_10047_10047_10012_10012_10026_10026_10026_10011_10011_10038_10011_10011_10011</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50029</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50029_1</name>
+    <formation type="String" multiLanguage="0">0_10011_10011_10038_10011_10011_10024_10024_10024_0_0_10016_10016_10016_10012_10012_10010_10010_10010_0_0_10012_10012_10038_10012_10012_10047_10047_10047_0_0_10026_10026_10026_10012_10012_10038_10012_10012</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50030</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50030_1</name>
+    <formation type="String" multiLanguage="0">0_10011_10011_10011_0_0_10024_10024_10024_0_0_10012_10038_10012_0_0_10016_10016_10016_0_0_10012_10038_10012_0_0_10010_10038_10010_0_0_10012_10012_10012_0_0_10012_10038_10012_0_0_10012_10012_10012_0_0_10047_10038_10047_0_0_10012_10012_10012_0_0_10026_10026_10026_0_0_10011_10011_10011</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50031</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50031_1</name>
+    <formation type="String" multiLanguage="0">0_0_10039_0_0_0_10039_10039_10039_0_10039_10039_10039_10039_10039_0_10024_10024_10024_0_0_10042_10042_10042_0_0_10043_10043_10043_0_0_10009_10009_10009_0_0_10010_10010_10010_0_0_10012_10012_10012_0_0_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50032</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50032_1</name>
+    <formation type="String" multiLanguage="0">10039_10039_10039_10039_10039_0_10024_10024_10024_0_0_10046_10046_10046_0_0_10043_10043_10043_0_0_10042_10042_10042_0_0_10010_10009_10010_0_0_10012_10009_10012_0_10039_10039_10039_10039_10039</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50033</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50033_1</name>
+    <formation type="String" multiLanguage="0">10011_10039_10039_10039_10011_10039_10024_10024_10024_10039_10039_10043_10039_10043_10039_10039_10010_10010_10010_10039_10039_10012_10038_10012_10039_10039_10046_10046_10046_10039_10039_10042_10009_10042_10039_10046_10046_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50034</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50034_1</name>
+    <formation type="String" multiLanguage="0">0_10039_10039_10038_10039_10039_10024_10038_10024_0_0_10046_10042_10042_10039_10039_10010_10010_10011_0_0_10011_10012_10012_10039_10039_10043_10009_10043_0_0_10024_10024_10046_10039_10039_10009_10039_10039</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50035</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50035_1</name>
+    <formation type="String" multiLanguage="0">0_10039_10039_10039_0_0_10024_10024_10024_0_0_10039_10046_10039_0_0_10042_10043_10042_0_0_10039_10009_10039_0_0_10010_10011_10010_0_0_10039_10039_10039_0_0_10012_10011_10012_0_0_10039_10039_10039_0_0_10043_10009_10043_0_0_10039_10046_10039_0_0_10024_10024_10024_0_0_10039_10046_10039</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50036</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50036_1</name>
+    <formation type="String" multiLanguage="0">0_0_10012_0_0_0_10012_10012_10012_0_10011_10038_10038_10011_10011_0_10024_10024_10024_0_0_10043_10043_10043_0_0_10042_10042_10042_0_0_10010_10010_10010_0_0_10010_10010_10010_0_0_10012_10043_10012</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50037</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50037_1</name>
+    <formation type="String" multiLanguage="0">10012_10012_10043_10012_10012_0_10024_10024_10024_0_0_10042_10042_10042_0_0_10043_10043_10043_0_0_10042_10042_10042_0_0_10010_10010_10010_0_0_10012_10012_10012_0_10011_10011_10038_10011_10011</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50038</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50038_1</name>
+    <formation type="String" multiLanguage="0">10012_10012_10038_10012_10012_10012_10024_10024_10024_10012_10012_10042_10042_10042_10012_10012_10010_10010_10010_10012_10012_10012_10038_10012_10012_10012_10043_10043_10043_10012_10012_10024_10024_10024_10011_10011_10038_10011_10011_10011</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50039</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50039_1</name>
+    <formation type="String" multiLanguage="0">0_10011_10011_10038_10011_10011_10024_10024_10024_0_0_10016_10016_10016_10012_10012_10010_10010_10010_0_0_10012_10012_10038_10012_10012_10047_10047_10047_0_0_10026_10026_10026_10012_10012_10038_10012_10012</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50040</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50040_1</name>
+    <formation type="String" multiLanguage="0">0_10011_10011_10011_0_0_10024_10024_10024_0_0_10012_10038_10012_0_0_10043_10043_10043_0_0_10012_10038_10012_0_0_10010_10038_10010_0_0_10012_10012_10012_0_0_10012_10038_10012_0_0_10012_10012_10012_0_0_10042_10038_10042_0_0_10012_10012_10012_0_0_10042_10042_10042_0_0_10011_10011_10011</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50041</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50041_1</name>
+    <formation type="String" multiLanguage="0">0_0_10049_0_0_0_10049_10049_10049_0_10049_10049_10049_10049_10049_0_10040_10040_10040_0_0_10035_10035_10035_0_0_10048_10048_10048_0_0_10036_10036_10036_0_0_10032_10032_10032_0_0_10031_10031_10031_0_0_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50042</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50042_1</name>
+    <formation type="String" multiLanguage="0">10049_10049_10049_10049_10049_0_10040_10040_10040_0_0_10046_10046_10046_0_0_10041_10041_10041_0_0_10032_10032_10032_0_0_10033_10037_10033_0_0_10031_10036_10031_0_10035_10035_10035_10035_10035</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50043</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50043_1</name>
+    <formation type="String" multiLanguage="0">10033_10049_10049_10049_10033_10049_10036_10036_10036_10037_10037_10048_10037_10048_10049_10049_10032_10032_10032_10049_10049_10031_10048_10032_10049_10049_10046_10046_10046_10049_10049_10041_10040_10041_10049_10046_10046_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50044</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50044_1</name>
+    <formation type="String" multiLanguage="0">0_10049_10049_10048_10049_10049_10040_10048_10040_0_0_10046_10032_10032_10049_10049_10040_10040_10031_0_0_10031_10032_10032_10049_10049_10033_10049_10033_0_0_10035_10035_10046_10049_10049_10037_10049_10049</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50045</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50045_1</name>
+    <formation type="String" multiLanguage="0">0_10049_10049_10049_0_0_10041_10041_10041_0_0_10049_10046_10049_0_0_10048_10045_10048_0_0_10049_10049_10049_0_0_10040_10031_10040_0_0_10037_10037_10037_0_0_10032_10031_10032_0_0_10049_10049_10049_0_0_10033_10049_10046_0_0_10049_10046_10049_0_0_10041_10041_10041_0_0_10049_10046_10049</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50046</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50046_1</name>
+    <formation type="String" multiLanguage="0">0_0_10032_0_0_0_10032_10032_10032_0_10031_10048_10048_10031_10031_0_10044_10044_10044_0_0_10041_10041_10041_0_0_10040_10040_10040_0_0_10033_10033_10033_0_0_10033_10033_10033_0_0_10032_10045_10032</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50047</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50047_1</name>
+    <formation type="String" multiLanguage="0">10032_10032_10033_10032_10032_0_10048_10048_10048_0_0_10041_10041_10041_0_0_10045_10045_10045_0_0_10031_10031_10031_0_0_10040_10040_10040_0_0_10044_10044_10044_0_10033_10033_10048_10033_10033</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50048</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50048_1</name>
+    <formation type="String" multiLanguage="0">10032_10032_10048_10032_10032_10032_10048_10048_10048_10032_10032_10041_10041_10041_10032_10032_10040_10040_10040_10032_10032_10032_10048_10032_10032_10032_10044_10044_10044_10032_10032_10033_10033_10033_10031_10031_10048_10031_10031_10031</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50049</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50049_1</name>
+    <formation type="String" multiLanguage="0">0_10031_10031_10048_10031_10031_10040_10040_10040_0_0_10033_10033_10033_10032_10032_10041_10041_10041_0_0_10032_10032_10048_10032_10032_10045_10045_10045_0_0_10044_10044_10044_10032_10032_10048_10032_10032</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50050</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50050_1</name>
+    <formation type="String" multiLanguage="0">0_10031_10031_10031_0_0_10044_10044_10044_0_0_10032_10048_10032_0_0_10033_10033_10033_0_0_10032_10048_10032_0_0_10040_10048_10040_0_0_10032_10032_10032_0_0_10032_10048_10032_0_0_10032_10032_10032_0_0_10041_10048_10041_0_0_10032_10032_10032_0_0_10045_10045_10045_0_0_10031_10031_10031</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50051</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50051_1</name>
+    <formation type="String" multiLanguage="0">0_0_10039_0_0_0_10039_10039_10039_0_10039_10039_10039_10039_10039_0_10030_10030_10030_0_0_10039_10039_10039_0_0_10047_10047_10047_0_0_10046_10046_10046_0_0_10030_10030_10030_0_0_10011_10011_10011_0_0_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50052</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50052_1</name>
+    <formation type="String" multiLanguage="0">10009_10009_10009_10009_10009_0_10010_10010_10010_0_0_10046_10046_10046_0_0_10043_10043_10043_0_0_10026_10026_10026_0_0_10043_10039_10043_0_0_10011_10026_10011_0_10039_10039_10039_10039_10039</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50053</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50053_1</name>
+    <formation type="String" multiLanguage="0">10003_10039_10039_10039_10043_10039_10046_10046_10046_10039_10039_10043_10039_10043_10039_10039_10012_10012_10012_10039_10039_10011_10030_10012_10039_10039_10046_10046_10046_10039_10039_10011_10010_10011_10039_10046_10046_10046_10046_10046</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50054</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50054_1</name>
+    <formation type="String" multiLanguage="0">0_10009_10009_10038_10009_10009_10030_10046_10010_0_0_10046_10012_10012_10039_10039_10010_10010_10011_0_0_10011_10012_10012_10039_10039_10043_10039_10043_0_0_10046_10046_10046_10019_10019_10039_10019_10019</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50055</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50055_1</name>
+    <formation type="String" multiLanguage="0">0_10039_10039_10039_0_0_10001_10001_10001_0_0_10039_10046_10039_0_0_10016_10043_10011_0_0_10039_10039_10039_0_0_10030_10011_10030_0_0_10039_10039_10039_0_0_10012_10011_10012_0_0_10039_10039_10039_0_0_10003_10039_10046_0_0_10039_10046_10039_0_0_10011_10011_10011_0_0_10039_10046_10039</formation>
+    <speed type="int" multiLanguage="0">70</speed>
+    <type type="int" multiLanguage="0">1</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50056</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50056_1</name>
+    <formation type="String" multiLanguage="0">0_0_10012_0_0_0_10012_10012_10012_0_10011_10038_10038_10011_10011_0_10024_10024_10024_0_0_10047_10047_10047_0_0_10030_10030_10030_0_0_10038_10038_10038_0_0_10002_10002_10002_0_0_10026_10043_10026</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50057</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50057_1</name>
+    <formation type="String" multiLanguage="0">10002_10002_10003_10002_10002_0_10038_10038_10038_0_0_10011_10011_10011_0_0_10043_10043_10043_0_0_10001_10001_10001_0_0_10010_10010_10010_0_0_10024_10024_10024_0_10030_10030_10038_10030_10030</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50058</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50058_1</name>
+    <formation type="String" multiLanguage="0">10002_10002_10038_10002_10002_10002_10038_10038_10038_10002_10002_10001_10001_10001_10012_10012_10030_10030_10030_10043_10043_10043_10047_10024_10024_10024_10043_10043_10043_10016_10016_10003_10003_10003_10047_10047_10017_10047_10047_10047</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50059</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50059_1</name>
+    <formation type="String" multiLanguage="0">0_10001_10001_10047_10001_10001_10030_10030_10030_0_0_10003_10003_10003_10012_10012_10011_10011_10011_0_0_10002_10002_10038_10002_10002_10043_10043_10043_0_0_10024_10024_10024_10038_10038_10047_10038_10038</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+  <data>
+    <formationId type="int" multiLanguage="0">50060</formationId>
+    <name type="String" multiLanguage="1">soldier.xls_3_50060_1</name>
+    <formation type="String" multiLanguage="0">0_10038_10038_10038_0_0_10047_10047_10047_0_0_10030_10043_10030_0_0_10003_10003_10003_0_0_10012_10010_10012_0_0_10010_10038_10010_0_0_10002_10002_10002_0_0_10002_10038_10003_0_0_10003_10003_10003_0_0_10011_10019_10011_0_0_10012_10012_10012_0_0_10024_10024_10024_0_0_10017_10017_10017</formation>
+    <speed type="int" multiLanguage="0">85</speed>
+    <type type="int" multiLanguage="0">2</type>
+  </data>
+</root>

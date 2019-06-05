@@ -1,0 +1,86 @@
+<root>
+  <data>
+    <rId type="int" multiLanguage="0">1</rId>
+    <markId type="String" multiLanguage="0">com.sj.250</markId>
+    <type type="int" multiLanguage="0">1</type>
+    <price type="int" multiLanguage="0">5</price>
+    <gold type="int" multiLanguage="0">250</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">2</rId>
+    <markId type="String" multiLanguage="0">com.sj.520</markId>
+    <type type="int" multiLanguage="0">1</type>
+    <price type="int" multiLanguage="0">10</price>
+    <gold type="int" multiLanguage="0">520</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">3</rId>
+    <markId type="String" multiLanguage="0">com.sj.3000</markId>
+    <type type="int" multiLanguage="0">1</type>
+    <price type="int" multiLanguage="0">50</price>
+    <gold type="int" multiLanguage="0">3000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">4</rId>
+    <markId type="String" multiLanguage="0">com.sj.7800</markId>
+    <type type="int" multiLanguage="0">1</type>
+    <price type="int" multiLanguage="0">100</price>
+    <gold type="int" multiLanguage="0">7800</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">5</rId>
+    <markId type="String" multiLanguage="0">com.sj.27000</markId>
+    <type type="int" multiLanguage="0">1</type>
+    <price type="int" multiLanguage="0">300</price>
+    <gold type="int" multiLanguage="0">27000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">6</rId>
+    <markId type="String" multiLanguage="0">com.sj.48000</markId>
+    <type type="int" multiLanguage="0">1</type>
+    <price type="int" multiLanguage="0">500</price>
+    <gold type="int" multiLanguage="0">48000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">7</rId>
+    <markId type="String" multiLanguage="0">com.sj.300</markId>
+    <type type="int" multiLanguage="0">2</type>
+    <price type="int" multiLanguage="0">6</price>
+    <gold type="int" multiLanguage="0">300</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">8</rId>
+    <markId type="String" multiLanguage="0">com.sj.1000</markId>
+    <type type="int" multiLanguage="0">2</type>
+    <price type="int" multiLanguage="0">18</price>
+    <gold type="int" multiLanguage="0">1000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">9</rId>
+    <markId type="String" multiLanguage="0">com.sj.3000</markId>
+    <type type="int" multiLanguage="0">2</type>
+    <price type="int" multiLanguage="0">50</price>
+    <gold type="int" multiLanguage="0">3000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">10</rId>
+    <markId type="String" multiLanguage="0">com.sj.10000</markId>
+    <type type="int" multiLanguage="0">2</type>
+    <price type="int" multiLanguage="0">128</price>
+    <gold type="int" multiLanguage="0">10000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">11</rId>
+    <markId type="String" multiLanguage="0">com.sj.35000</markId>
+    <type type="int" multiLanguage="0">2</type>
+    <price type="int" multiLanguage="0">388</price>
+    <gold type="int" multiLanguage="0">35000</gold>
+  </data>
+  <data>
+    <rId type="int" multiLanguage="0">12</rId>
+    <markId type="String" multiLanguage="0">com.sj.65000</markId>
+    <type type="int" multiLanguage="0">2</type>
+    <price type="int" multiLanguage="0">648</price>
+    <gold type="int" multiLanguage="0">65000</gold>
+  </data>
+</root>

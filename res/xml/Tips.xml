@@ -1,0 +1,97 @@
+<root>
+  <data>
+    <tId type="int" multiLanguage="0">90001</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90001_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90002</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90002_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90003</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90003_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90004</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90004_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90005</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90005_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90006</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90006_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90007</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90007_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90008</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90008_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90009</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90009_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90010</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90010_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90011</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90011_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90012</tId>
+    <type type="int" multiLanguage="0">1</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90012_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90013</tId>
+    <type type="int" multiLanguage="0">2</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90013_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90014</tId>
+    <type type="int" multiLanguage="0">2</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90014_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90015</tId>
+    <type type="int" multiLanguage="0">2</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90015_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90016</tId>
+    <type type="int" multiLanguage="0">2</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90016_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90017</tId>
+    <type type="int" multiLanguage="0">2</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90017_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90018</tId>
+    <type type="int" multiLanguage="0">2</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90018_2</desc>
+  </data>
+  <data>
+    <tId type="int" multiLanguage="0">90019</tId>
+    <type type="int" multiLanguage="0">3</type>
+    <desc type="String" multiLanguage="1">config.xls_7_90019_2</desc>
+  </data>
+</root>

@@ -1,0 +1,62 @@
+<root>
+  <data>
+    <roldId type="int" multiLanguage="0">20001</roldId>
+    <name type="String" multiLanguage="1">soldier.xls_2_20001_1</name>
+    <skillId type="int" multiLanguage="0">30002</skillId>
+    <model type="String" multiLanguage="0">20001</model>
+    <image type="String" multiLanguage="0">0</image>
+    <minATK type="int" multiLanguage="0">10</minATK>
+    <maxATK type="int" multiLanguage="0">100</maxATK>
+    <attackSpeed type="double" multiLanguage="0">0.085</attackSpeed>
+    <moveSpeed type="double" multiLanguage="0">7.0</moveSpeed>
+    <vip type="int" multiLanguage="0">0</vip>
+    <goldCost type="int" multiLanguage="0">10000</goldCost>
+    <sequence type="int" multiLanguage="0">2</sequence>
+    <feature type="String" multiLanguage="1">soldier.xls_2_20001_12</feature>
+  </data>
+  <data>
+    <roldId type="int" multiLanguage="0">20002</roldId>
+    <name type="String" multiLanguage="1">soldier.xls_2_20002_1</name>
+    <skillId type="int" multiLanguage="0">30001</skillId>
+    <model type="String" multiLanguage="0">20002</model>
+    <image type="String" multiLanguage="0">0</image>
+    <minATK type="int" multiLanguage="0">10</minATK>
+    <maxATK type="int" multiLanguage="0">100</maxATK>
+    <attackSpeed type="double" multiLanguage="0">0.085</attackSpeed>
+    <moveSpeed type="double" multiLanguage="0">7.0</moveSpeed>
+    <vip type="int" multiLanguage="0">0</vip>
+    <goldCost type="int" multiLanguage="0">0</goldCost>
+    <sequence type="int" multiLanguage="0">1</sequence>
+    <feature type="String" multiLanguage="1">soldier.xls_2_20002_12</feature>
+  </data>
+  <data>
+    <roldId type="int" multiLanguage="0">20003</roldId>
+    <name type="String" multiLanguage="1">soldier.xls_2_20003_1</name>
+    <skillId type="int" multiLanguage="0">30005</skillId>
+    <model type="String" multiLanguage="0">20003</model>
+    <image type="String" multiLanguage="0">0</image>
+    <minATK type="int" multiLanguage="0">10</minATK>
+    <maxATK type="int" multiLanguage="0">100</maxATK>
+    <attackSpeed type="double" multiLanguage="0">0.085</attackSpeed>
+    <moveSpeed type="double" multiLanguage="0">8.0</moveSpeed>
+    <vip type="int" multiLanguage="0">1</vip>
+    <goldCost type="int" multiLanguage="0">0</goldCost>
+    <sequence type="int" multiLanguage="0">4</sequence>
+    <feature type="String" multiLanguage="1">soldier.xls_2_20003_12</feature>
+  </data>
+  <data>
+    <roldId type="int" multiLanguage="0">20005</roldId>
+    <name type="String" multiLanguage="1">soldier.xls_2_20005_1</name>
+    <skillId type="int" multiLanguage="0">30006</skillId>
+    <model type="String" multiLanguage="0">20005</model>
+    <image type="String" multiLanguage="0">0</image>
+    <minATK type="int" multiLanguage="0">10</minATK>
+    <maxATK type="int" multiLanguage="0">100</maxATK>
+    <attackSpeed type="double" multiLanguage="0">0.075</attackSpeed>
+    <moveSpeed type="double" multiLanguage="0">8.0</moveSpeed>
+    <vip type="int" multiLanguage="0">0</vip>
+    <goldCost type="int" multiLanguage="0">100000</goldCost>
+    <sequence type="int" multiLanguage="0">3</sequence>
+    <feature type="String" multiLanguage="1">soldier.xls_2_20005_12</feature>
+  </data>
+</root>

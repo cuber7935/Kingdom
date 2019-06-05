@@ -1,0 +1,37 @@
+<root>
+  <data>
+    <loginDay type="int" multiLanguage="0">1</loginDay>
+    <desc type="String" multiLanguage="0">第一天登陆</desc>
+    <reward type="String" multiLanguage="0">1_50</reward>
+  </data>
+  <data>
+    <loginDay type="int" multiLanguage="0">2</loginDay>
+    <desc type="String" multiLanguage="0">第二天登陆</desc>
+    <reward type="String" multiLanguage="0">1_70</reward>
+  </data>
+  <data>
+    <loginDay type="int" multiLanguage="0">3</loginDay>
+    <desc type="String" multiLanguage="0">第三天登陆</desc>
+    <reward type="String" multiLanguage="0">1_100</reward>
+  </data>
+  <data>
+    <loginDay type="int" multiLanguage="0">4</loginDay>
+    <desc type="String" multiLanguage="0">第四天登陆</desc>
+    <reward type="String" multiLanguage="0">1_120</reward>
+  </data>
+  <data>
+    <loginDay type="int" multiLanguage="0">5</loginDay>
+    <desc type="String" multiLanguage="0">第五天登陆</desc>
+    <reward type="String" multiLanguage="0">1_150</reward>
+  </data>
+  <data>
+    <loginDay type="int" multiLanguage="0">6</loginDay>
+    <desc type="String" multiLanguage="0">第六天登陆</desc>
+    <reward type="String" multiLanguage="0">1_180</reward>
+  </data>
+  <data>
+    <loginDay type="int" multiLanguage="0">7</loginDay>
+    <desc type="String" multiLanguage="0">第七天登陆</desc>
+    <reward type="String" multiLanguage="0">1_200</reward>
+  </data>
+</root>

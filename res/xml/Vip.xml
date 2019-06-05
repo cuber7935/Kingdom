@@ -1,0 +1,12 @@
+<root>
+  <data>
+    <vipLevel type="int" multiLanguage="0">0</vipLevel>
+    <name type="String" multiLanguage="1">config.xls_4_0_1</name>
+    <rechargeLimit type="int" multiLanguage="0">0</rechargeLimit>
+  </data>
+  <data>
+    <vipLevel type="int" multiLanguage="0">1</vipLevel>
+    <name type="String" multiLanguage="1">config.xls_4_1_1</name>
+    <rechargeLimit type="int" multiLanguage="0">100</rechargeLimit>
+  </data>
+</root>

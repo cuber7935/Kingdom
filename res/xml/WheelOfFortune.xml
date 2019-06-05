@@ -1,0 +1,8 @@
+<root>
+  <data>
+    <wfId type="int" multiLanguage="0">1</wfId>
+    <firstProbability type="String" multiLanguage="0">0.42_0.4_0.1_0.05_0.025_0.005</firstProbability>
+    <secondProbability type="String" multiLanguage="0">0.2_0.5_0.2494_0.05_0.0004_0.0002</secondProbability>
+    <thirdProbability type="String" multiLanguage="0">0.396_0.35_0.15_0.07_0.027_0.007</thirdProbability>
+  </data>
+</root>

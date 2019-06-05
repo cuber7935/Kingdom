@@ -1,0 +1,102 @@
+<root>
+  <data>
+    <tbId type="int" multiLanguage="0">1</tbId>
+    <winnings type="int" multiLanguage="0">100</winnings>
+    <goldCost type="int" multiLanguage="0">2000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">2</tbId>
+    <winnings type="int" multiLanguage="0">200</winnings>
+    <goldCost type="int" multiLanguage="0">4000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">3</tbId>
+    <winnings type="int" multiLanguage="0">300</winnings>
+    <goldCost type="int" multiLanguage="0">6000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">4</tbId>
+    <winnings type="int" multiLanguage="0">400</winnings>
+    <goldCost type="int" multiLanguage="0">8000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">5</tbId>
+    <winnings type="int" multiLanguage="0">500</winnings>
+    <goldCost type="int" multiLanguage="0">10000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">6</tbId>
+    <winnings type="int" multiLanguage="0">600</winnings>
+    <goldCost type="int" multiLanguage="0">12000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">7</tbId>
+    <winnings type="int" multiLanguage="0">700</winnings>
+    <goldCost type="int" multiLanguage="0">14000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">8</tbId>
+    <winnings type="int" multiLanguage="0">800</winnings>
+    <goldCost type="int" multiLanguage="0">16000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">9</tbId>
+    <winnings type="int" multiLanguage="0">900</winnings>
+    <goldCost type="int" multiLanguage="0">18000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">10</tbId>
+    <winnings type="int" multiLanguage="0">1000</winnings>
+    <goldCost type="int" multiLanguage="0">20000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">11</tbId>
+    <winnings type="int" multiLanguage="0">1100</winnings>
+    <goldCost type="int" multiLanguage="0">22000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">12</tbId>
+    <winnings type="int" multiLanguage="0">1200</winnings>
+    <goldCost type="int" multiLanguage="0">24000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">13</tbId>
+    <winnings type="int" multiLanguage="0">1300</winnings>
+    <goldCost type="int" multiLanguage="0">26000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">14</tbId>
+    <winnings type="int" multiLanguage="0">1400</winnings>
+    <goldCost type="int" multiLanguage="0">28000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">15</tbId>
+    <winnings type="int" multiLanguage="0">1500</winnings>
+    <goldCost type="int" multiLanguage="0">30000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">16</tbId>
+    <winnings type="int" multiLanguage="0">1600</winnings>
+    <goldCost type="int" multiLanguage="0">32000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">17</tbId>
+    <winnings type="int" multiLanguage="0">1700</winnings>
+    <goldCost type="int" multiLanguage="0">34000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">18</tbId>
+    <winnings type="int" multiLanguage="0">1800</winnings>
+    <goldCost type="int" multiLanguage="0">36000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">19</tbId>
+    <winnings type="int" multiLanguage="0">1900</winnings>
+    <goldCost type="int" multiLanguage="0">38000</goldCost>
+  </data>
+  <data>
+    <tbId type="int" multiLanguage="0">20</tbId>
+    <winnings type="int" multiLanguage="0">2000</winnings>
+    <goldCost type="int" multiLanguage="0">40000</goldCost>
+  </data>
+</root>

@@ -1,0 +1,3 @@
+﻿config.xls_2_1_1="普通士兵"
+config.xls_2_2_1="门下督"
+config.xls_2_3_1="牙门将"
